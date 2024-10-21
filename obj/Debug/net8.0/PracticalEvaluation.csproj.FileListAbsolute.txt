@@ -1,0 +1,14 @@
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.AssemblyInfoInputs.cache
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.AssemblyInfo.cs
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.csproj.CoreCompileInputs.cache
+D:\DEMO PROJECTS\PracticalEvaluation\bin\Debug\net8.0\PracticalEvaluation.exe
+D:\DEMO PROJECTS\PracticalEvaluation\bin\Debug\net8.0\PracticalEvaluation.deps.json
+D:\DEMO PROJECTS\PracticalEvaluation\bin\Debug\net8.0\PracticalEvaluation.runtimeconfig.json
+D:\DEMO PROJECTS\PracticalEvaluation\bin\Debug\net8.0\PracticalEvaluation.dll
+D:\DEMO PROJECTS\PracticalEvaluation\bin\Debug\net8.0\PracticalEvaluation.pdb
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.dll
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\refint\PracticalEvaluation.dll
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.pdb
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\PracticalEvaluation.genruntimeconfig.cache
+D:\DEMO PROJECTS\PracticalEvaluation\obj\Debug\net8.0\ref\PracticalEvaluation.dll
